@@ -1,5 +1,5 @@
 //
-// Created by Animesh Gupta on 15/07/24.
+// Created by Animesh Gupta on 15/01/24.
 //
 
 #ifndef RUBIKS_CUBE_SOLVER_PERMUTATIONINDEXER_H
